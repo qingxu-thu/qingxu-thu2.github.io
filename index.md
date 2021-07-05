@@ -104,24 +104,28 @@ Researches for about both computer science and fulid and thermal transportation 
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
 
 ## Project
- - Physical simluation for plasma ignition
+ - **Physical simluation for plasma ignition**
  <br>
- Use OpenFOAM to conduct the simluation for plasma ignition. Constrcut a simple framework to simulation this phenomenon and try to find the insights for engineering.<br>
-<iframe height=500 width=500 src="http://ww4.sinaimg.cn/mw690/e75a115bgw1f3rrbzv1m8g209v0diqv7.gif">
+ Use OpenFOAM to conduct the simluation for plasma ignition. Constrcut a simple framework to simulation this phenomenon and try to find the insights for engineering.
+<br>
+<>
+<br>
 
- - Courses for GAMES 101,201,202 
+ - **Courses for GAMES 101 201 202**
  <br>
  Learn the basic of the computer graphics, physically based animation and real-time rendering.<br>
-<iframe height=500 width=500 src="http://ww4.sinaimg.cn/mw690/e75a115bgw1f3rrbzv1m8g209v0diqv7.gif"> 
-<iframe height=500 width=500 src="http://ww4.sinaimg.cn/mw690/e75a115bgw1f3rrbzv1m8g209v0diqv7.gif"> 
-<iframe height=500 width=500 src="http://ww4.sinaimg.cn/mw690/e75a115bgw1f3rrbzv1m8g209v0diqv7.gif">
+<> 
+<> 
+<>
 <br>     <br>
 [[Code] ]
+<br>
   
- - CCF&DIDI time and spatial prediction 
+- **CCF&DIDI time and spatial prediction**
   <br>
   Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors.
 [[Code] ]
+  <br>
   
 ## Awards and Honors
   - Academic Scholarship for Tsinghua University, Sept 2017,2018
