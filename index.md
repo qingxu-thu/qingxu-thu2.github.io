@@ -11,29 +11,98 @@ Researches for about both computer science and fulid and thermal transportation 
 
 ## Publications
 ### Privacy Computation in mechine learning
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective
+**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Haoxiang Wang**, Jiangsheng Zhang, Chenbei Lu, Chenye Wu
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  **accepted** by IEEE Transactions on Smart Grid (IF=8.96).
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] 
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Understanding Differential Privacy in Non-Intrusive Load Monitoring**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Haoxiang Wang**, Chenye Wu,
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  **accepted** by e-Energy '20..
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Differential Privacy in Consumer Behavior Analysis**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Haoxiang Wang**, Xun Luo, Chenye Wu,
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  accepted by IEEE PES General Meeting 2021.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)]
+
+- **Asynchronous Training Schemes in Distributed Learning with Time Delay**
+  <br>
+  **Haoxiang Wang**, Zhanhong Jiang, Chao Liu
+  <br>
+  under review for **NeurIPS 2021**.
+  <br>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
+
+- **Federated Learning with Classifier Shift for Class Imbalance**
+  <br>
+  Yuheng Shen, **Haoxiang Wang**, Hairong Lv
+  <br>
+  under review for **NeurIPS 2021**.
+  <br>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
+
+###Mechanism Design and Pricing
+
+- **Optimal Green Certificate Auction Considering Economic Dispatch**
+  <br>
+  **Haoxiang Wang**, Chenye Wu
+  <br>
+  Working Paper.
+  <br>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
+
+- **Vulnerability Analysis for Data Driven Pricing Schemes**
+  <br>
+  Jingshi Cui, **Haoxiang Wang**, Chenye Wu
+  <br>
+  **accepted** by IEEE PES General Meeting.
+  <br>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
+  
+- **Robust Data-driven Profile-based Pricing Schemes**
+  <br>
+  Jingshi Cui, **Haoxiang Wang**, Chenye Wu
+  <br>
+  **accepted** by IEEE ISGT NA 2021.
+  <br>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
+
+- **Bridging Chance-constrained and Robust Optimization in an Emission-aware Economic Dispatch with Energy Storage**
+  <br>
+  Nan Gu, **Haoxiang Wang**, Jiangsheng Zhang, Chenye Wu
+  <br>
+  under review by **IEEE transactions on power system** (**Top** for electrical engineering).
+  <br>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
+  
+###Practical Application
+
+- **Collaborative deep learning framework for fault diagnosis in distributed complex systems**
+  <br>
+  Nan Gu, **Haoxiang Wang**, Jiangsheng Zhang, Chenye Wu
+  <br>
+  **accept** by Mechanical Systems and Signal Processing (IF=6.4).
+  <br>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
+
+- **Thompson Sampling Based on Deep Representation**
+  <br>
+  Yuhai Song, Lu Wang, HM D, Wang Zhe, **Haoxiang Wang**
+  <br>
+  under review for **NeurIPS 2021**.
+  <br>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
 
 ## Project
 
