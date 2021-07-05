@@ -10,9 +10,8 @@ Researches for about both computer science and fulid and thermal transportation 
 
 
 ## Publications
-### Privacy Computation in mechine learning
-- **Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective
-**
+### Privacy Computation in machine learning
+- **Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective**
   <br>
   **Haoxiang Wang**, Jiangsheng Zhang, Chenbei Lu, Chenye Wu
   <br>
@@ -52,7 +51,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
 
-###Mechanism Design and Pricing
+### Mechanism Design and Pricing
 
 - **Optimal Green Certificate Auction Considering Economic Dispatch**
   <br>
@@ -86,13 +85,13 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
   
-###Practical Application
+### Practical Application
 
 - **Collaborative deep learning framework for fault diagnosis in distributed complex systems**
   <br>
-  Nan Gu, **Haoxiang Wang**, Jiangsheng Zhang, Chenye Wu
+  **Haoxiang Wang**, Chao Liu, Dongxiang Jiang, Zhanhong Jiang
   <br>
-  **accept** by Mechanical Systems and Signal Processing (IF=6.4).
+  **accepted** by Mechanical Systems and Signal Processing (IF=6.4).
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
 
@@ -105,5 +104,29 @@ Researches for about both computer science and fulid and thermal transportation 
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
 
 ## Project
+ - Physical simluation for plasma ignition
+ <br>
+ Use OpenFOAM to conduct the simluation for plasma ignition. Constrcut a simple framework to simulation this phenomenon and try to find the insights for engineering.<br>
+<iframe height=500 width=500 src="http://ww4.sinaimg.cn/mw690/e75a115bgw1f3rrbzv1m8g209v0diqv7.gif">
 
-
+ - Courses for GAMES 101,201,202 
+ <br>
+ Learn the basic of the computer graphics, physically based animation and real-time rendering.<br>
+<iframe height=500 width=500 src="http://ww4.sinaimg.cn/mw690/e75a115bgw1f3rrbzv1m8g209v0diqv7.gif"> 
+<iframe height=500 width=500 src="http://ww4.sinaimg.cn/mw690/e75a115bgw1f3rrbzv1m8g209v0diqv7.gif"> 
+<iframe height=500 width=500 src="http://ww4.sinaimg.cn/mw690/e75a115bgw1f3rrbzv1m8g209v0diqv7.gif">
+<br>     <br>
+[[Code] ]
+  
+ - CCF&DIDI time and spatial prediction 
+  <br>
+  Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors.
+[[Code] ]
+  
+## Awards and Honors
+  - Academic Scholarship for Tsinghua University, Sept 2017,2018
+  - Excellent graduate of Tsinghua University, Sept 2019
+  
+For more information, you could come to my CV[[PDF]  ].
+  
+  
