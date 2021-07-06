@@ -100,6 +100,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   [[PDF](https://openreview.net/pdf?id=SRE8sviET2g)] 
 
+[^_^]:
 ## Project
  - **Physical simluation for plasma ignition**
  <br>
@@ -107,7 +108,7 @@ Researches for about both computer science and fulid and thermal transportation 
 <br>
 <>
 <br>
-
+[^_^]:
  - **Courses for GAMES 101 201 202**
  <br>
  Learn the basic of the computer graphics, physically based animation and real-time rendering.<br>
@@ -117,7 +118,7 @@ Researches for about both computer science and fulid and thermal transportation 
 <br>     <br>
 [[Code] ]
 <br>
-  
+[^_^]:  
 - **CCF&DIDI time and spatial prediction**
   <br>
   Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors.
