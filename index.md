@@ -17,7 +17,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   **accepted** by IEEE Transactions on Smart Grid (IF=8.96).
   <br>
-  [[PDF](https://arxiv.org/pdf/2011.06205.pdf) [doi](https://ieeexplore.ieee.org/document/9261407)] 
+  [[PDF](https://arxiv.org/pdf/2011.06205.pdf)] [[doi](https://ieeexplore.ieee.org/document/9261407)] 
 
 - **Understanding Differential Privacy in Non-Intrusive Load Monitoring**
   <br>
@@ -65,7 +65,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   **accepted** by IEEE PES General Meeting.
   <br>
-  [[PDF](https://arxiv.org/pdf/1911.07453.pdf)[doi](https://ieeexplore.ieee.org/document/9281848)] 
+  [[PDF](https://arxiv.org/pdf/1911.07453.pdf)] [[doi](https://ieeexplore.ieee.org/document/9281848)] 
   
 - **Robust Data-driven Profile-based Pricing Schemes**
   <br>
