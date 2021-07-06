@@ -17,7 +17,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   **accepted** by IEEE Transactions on Smart Grid (IF=8.96).
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] 
+  [[PDF](https://arxiv.org/pdf/2011.06205.pdf) [doi](https://ieeexplore.ieee.org/document/9261407)] 
 
 - **Understanding Differential Privacy in Non-Intrusive Load Monitoring**
   <br>
@@ -25,7 +25,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   **accepted** by e-Energy '20..
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)]
+  [[doi](https://dl.acm.org/doi/10.1145/3396851.3403508)]
 
 - **Differential Privacy in Consumer Behavior Analysis**
   <br>
@@ -33,7 +33,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   accepted by IEEE PES General Meeting 2021.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)]
+  [[Talk](https://youtu.be/WJ_vojAD7mw)]
 
 - **Asynchronous Training Schemes in Distributed Learning with Time Delay**
   <br>
@@ -41,7 +41,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   under review for **NeurIPS 2021**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
+  [[PDF](https://openreview.net/pdf?id=PSukBxwOSs)] 
 
 - **Federated Learning with Classifier Shift for Class Imbalance**
   <br>
@@ -49,7 +49,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   under review for **NeurIPS 2021**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
+  [[PDF](https://openreview.net/pdf?id=6vNUZthdYf1)] 
 
 ### Mechanism Design and Pricing
 
@@ -58,8 +58,6 @@ Researches for about both computer science and fulid and thermal transportation 
   **Haoxiang Wang**, Chenye Wu
   <br>
   Working Paper.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
 
 - **Vulnerability Analysis for Data Driven Pricing Schemes**
   <br>
@@ -67,7 +65,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   **accepted** by IEEE PES General Meeting.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
+  [[PDF](https://arxiv.org/pdf/1911.07453.pdf)[doi](https://ieeexplore.ieee.org/document/9281848)] 
   
 - **Robust Data-driven Profile-based Pricing Schemes**
   <br>
@@ -75,15 +73,13 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   **accepted** by IEEE ISGT NA 2021.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
+  [[PDF](https://arxiv.org/pdf/1912.05731.pdf)] 
 
 - **Bridging Chance-constrained and Robust Optimization in an Emission-aware Economic Dispatch with Energy Storage**
   <br>
   Nan Gu, **Haoxiang Wang**, Jiangsheng Zhang, Chenye Wu
   <br>
   under review by **IEEE transactions on power system** (**Top** for electrical engineering).
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
   
 ### Practical Application
 
@@ -93,7 +89,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   **accepted** by Mechanical Systems and Signal Processing (IF=6.4).
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
+  [[doi](https://doi.org/10.1016/j.ymssp.2021.107650)] 
 
 - **Thompson Sampling Based on Deep Representation**
   <br>
@@ -101,7 +97,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   under review for **NeurIPS 2021**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] 
+  [[PDF](https://openreview.net/pdf?id=SRE8sviET2g)] 
 
 ## Project
  - **Physical simluation for plasma ignition**
