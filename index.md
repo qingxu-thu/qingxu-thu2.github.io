@@ -100,7 +100,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   [[PDF](https://openreview.net/pdf?id=SRE8sviET2g)] 
 
-/*
+<div style='display: none'>
 ## Project
  - **Physical simluation for plasma ignition**
  <br>
@@ -124,7 +124,7 @@ Researches for about both computer science and fulid and thermal transportation 
   Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors.
 [[Code] ]
   <br>
-*/
+</div>
  
 ## Awards and Honors
   - Academic Scholarship for Tsinghua University, Sept 2017,2018
