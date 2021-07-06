@@ -23,7 +23,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   **Haoxiang Wang**, Chenye Wu,
   <br>
-  **accepted** by e-Energy '20..
+  **accepted** by e-Energy '20.
   <br>
   [[pdf](./assets/eenergy.pdf)] [[doi](https://dl.acm.org/doi/10.1145/3396851.3403508)]
 
