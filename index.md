@@ -25,7 +25,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   **accepted** by e-Energy '20..
   <br>
-  [[doi](https://dl.acm.org/doi/10.1145/3396851.3403508)]
+  [[pdf](./assets/eenergy.pdf)] [[doi](https://dl.acm.org/doi/10.1145/3396851.3403508)]
 
 - **Differential Privacy in Consumer Behavior Analysis**
   <br>
@@ -33,7 +33,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   accepted by IEEE PES General Meeting 2021.
   <br>
-  [[Talk](https://youtu.be/WJ_vojAD7mw)]
+  [[PDF](./assets/Privacy_for_PES__Copy_.pdf)] [[Talk](https://youtu.be/WJ_vojAD7mw)]
 
 - **Asynchronous Training Schemes in Distributed Learning with Time Delay**
   <br>
@@ -58,7 +58,7 @@ Researches for about both computer science and fulid and thermal transportation 
   **Haoxiang Wang**, Chenye Wu
   <br>
   Working Paper.'
-  [[PDF] ]
+  [[PDF](./assets/Green_certificates_auction__neurips_2021_.pdf)]
 
 - **Vulnerability Analysis for Data Driven Pricing Schemes**
   <br>
@@ -90,7 +90,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   **accepted** by Mechanical Systems and Signal Processing (IF=6.4).
   <br>
-  [[doi](https://doi.org/10.1016/j.ymssp.2021.107650)] 
+  [[PDF](./assets/mssp.pdf)] [[doi](https://doi.org/10.1016/j.ymssp.2021.107650)] 
 
 - **Thompson Sampling Based on Deep Representation**
   <br>
@@ -128,6 +128,6 @@ Researches for about both computer science and fulid and thermal transportation 
   - Academic Scholarship for Tsinghua University, Sept 2017,2018
   - Excellent graduate of Tsinghua University, Sept 2019
   
-For more information, you could come to my CV[[PDF](./asset/cveg2.pdf)].
+For more information, you could come to my CV [[PDF](./asset/cveg2.pdf)].
   
   
