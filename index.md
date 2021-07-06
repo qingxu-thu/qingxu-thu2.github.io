@@ -57,7 +57,8 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   **Haoxiang Wang**, Chenye Wu
   <br>
-  Working Paper.
+  Working Paper.'
+  [[PDF] ]
 
 - **Vulnerability Analysis for Data Driven Pricing Schemes**
   <br>
@@ -127,6 +128,6 @@ Researches for about both computer science and fulid and thermal transportation 
   - Academic Scholarship for Tsinghua University, Sept 2017,2018
   - Excellent graduate of Tsinghua University, Sept 2019
   
-For more information, you could come to my CV[[PDF]  ].
+For more information, you could come to my CV[[PDF](./asset/cveg2.pdf)].
   
   
