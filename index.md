@@ -126,21 +126,30 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
 -->
 ## Project
-<html>
-    <table style="margin-left: border=0,frame=void; margin-right: bordeer=0,frame=void;">
-        <tr>
-            <td>
-            <img src="https://raw.githubusercontent.com/qingxu-thu/plasma_ignite/main/result/T.gif" alt="plasma" />
-            </td>
-            <td>
- - <b>Physical simluation for plasma ignition
- <br>
- Use OpenFOAM to conduct the simluation for plasma ignition. Constrcut a simple framework to simulation this phenomenon and try to find the insights for engineering.
-<br>
-            </td>
-        </tr>
-    </table>
-</html>
+
+## HTML 表格
+<table style="width:100%; border: none;">
+  <tr>
+    <th><p align="center"><img href="https://github.com/bohaothu/md-table-example" src="./assets/" width="200"></p></th>
+    <th><h3 style="text-align: left"><a href="https://github.com/bohaothu/md-table-example">Normal mapping and Displacement mapping</a></h3><p align="left">Use spherical harmonics function to precompute radiance transfer and environment light then adopt it to the real time rendering.</p></th>
+  </tr>
+  <tr>
+    <th><p align="center"><img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p></th>
+    <th><h3 style="text-align: left"><a href="https://github.com/bohaothu/md-table-example">Whitted-Style Ray tracing</a></h3><p align="left">Conduct basic texture mapping and normal mapping with simple soft rendering pipeline.</p></th>
+  </tr>
+  <tr>
+    <th><p align="center"><img href="https://github.com/bohaothu/md-table-example" src="./static/img/euro2020.jpg" width="200"></p></th>
+    <th><h3 style="text-align: left"><a href="https://github.com/bohaothu/md-table-example">PCF and PCSS for soft shadow</a></h3><p align="left">Conduct ray tracing with BVH acceleration for simple CornellBox.</p></th>
+  </tr>
+  <tr>
+    <th><p align="center"><img href="https://github.com/bohaothu/md-table-example" src="https://cloud.tsinghua.edu.cn/seafhttp/files/4b91205b-ec05-46f0-a362-d88ca3390121/hw1.gif" width="200"></p></th>
+    <th><h3 style="text-align: left"><a href="https://github.com/bohaothu/md-table-example">Precomputed Radiance Transfer</a></h3><p align="left">Conduct PCF and PCSS compared with simple two pass shadow map and derive some sights for soft shadow.</p></th>
+  </tr>
+  <tr>
+    <th><p align="center"><img href="https://github.com/bohaothu/md-table-example" src="https://cloud.tsinghua.edu.cn/f/37da5dde48a1417fb9d4/hw2.gif" width="200"></p></th>
+    <th><h3 style="text-align: left"><a href="https://github.com/bohaothu/md-table-example">CCF&DIDI time and spatial prediction</a></h3><p align="left">Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors.</p></th>
+  </tr>
+</table>
 
  
 ## Awards and Honors
