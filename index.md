@@ -150,7 +150,7 @@ Researches for about both computer science and fulid and thermal transportation 
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/qingxu-thu/competition-preprocess-code" src="./assets/img/ccfdidi.jpg" width="200"></p></th>
-    <th><p style="text-align: left">CCF&DIDI time and spatial prediction</a></p><p align="left">Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors.<a href="https://github.com/qingxu-thu/competition-preprocess-code"> [code]</a></p></th>
+    <th><p style="text-align: left">CCF&DIDI time and spatial prediction</p><p align="left">Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors.<a href="https://github.com/qingxu-thu/competition-preprocess-code"> [code]</a></p></th>
   </tr>
 </table>
 
