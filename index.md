@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Master student at Institution for Interdisciplinary Information Science (IIIS), Tsinghua University. My advisor is Chenye Wu, who is advised by Andrew Chi-Chih Yao. Before entering IIIS, I am a bachelor in Department of Thermal Engineering. 
 
-Researches for about both computer science and fulid and thermal transportation are my interests now. I hope I could participate in the interdisciplinary area for this two topics, like phyiscal simulation or physically based computer graphics. Certainly, I am still active for the privacy computing and mechanism design and welcome for communciation if we are interested in my work aboput these topic!
+Researches for about both computer science and fulid and thermal transportation are my interests now. I hope I could participate in the interdisciplinary area for this two topics, like phyiscal simulation or physically based computer graphics. Certainly, I am still active for the privacy computing and mechanism design and welcome for communciation if we are interested in my work about these topic!
 
 
 ## Publications
