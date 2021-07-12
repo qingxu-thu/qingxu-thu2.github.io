@@ -103,7 +103,7 @@ Researches for about both computer science and fulid and thermal transportation 
 ## Project
 <table style="width:100%; border: none;">
    <tr>
-    <th style="border-bottom: 0;"><p align="center"><img href="https://github.com/qingxu-thu/plasma_ignite" src="./assets/img/T.gif" width="600"></p>
+    <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img href="https://github.com/qingxu-thu/plasma_ignite" src="./assets/img/T.gif" width="600"></p>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>Physical simluation for plasma ignition</strong><br>Use OpenFOAM to conduct the simluation for plasma ignition. Constrcut a simple framework to simulation this phenomenon and try to find the insights for engineering. [<a href="https://github.com/qingxu-thu/plasma_ignite">code</a>]</p></li></ul></th>
   </tr>
   <tr>
