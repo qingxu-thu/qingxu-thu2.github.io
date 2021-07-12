@@ -130,7 +130,7 @@ Researches for about both computer science and fulid and thermal transportation 
 <table style="width:100%; border: none;">
    <tr>
     <th><p align="center"><img href="https://github.com/qingxu-thu/plasma_ignite" src="./assets/img/T.gif" width="200"></p></th>
-    <th><p style="text-align: left">Physical simluation for plasma ignition</p><p align="left">Use OpenFOAM to conduct the simluation for plasma ignition. Constrcut a simple framework to simulation this phenomenon and try to find the insights for engineering.<a href="https://github.com/qingxu-thu/plasma_ignite"> [code]</p></a></th>
+    <th><p style="text-align: left">Physical simluation for plasma ignition</p><p align="left">Use OpenFOAM to conduct the simluation for plasma ignition. Constrcut a simple framework to simulation this phenomenon and try to find the insights for engineering.<a href="https://github.com/qingxu-thu/plasma_ignite"> [code]</a></p></th>
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/qingxu-thu/Games-101-HW/tree/main/Assignment3" src="./assets/img/texture.png" width="200"></p></th>
@@ -138,19 +138,19 @@ Researches for about both computer science and fulid and thermal transportation 
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/qingxu-thu/Games-101-HW/tree/main/PA7-1/PA7" src="./assets/img/binary.jpg" width="200"></p></th>
-    <th><p style="text-align: center">PCF and PCSS for soft shadow</a></p><p align="left">Conduct ray tracing with BVH acceleration for simple CornellBox.<a href="https://github.com/qingxu-thu/Games-101-HW/tree/main/PA7-1/PA7"> [code]</p></a></th>
+    <th><p style="text-align: left">Whitted-Style Ray tracing</a></p><p align="left">Conduct ray tracing with BVH acceleration for simple CornellBox.<a href="https://github.com/qingxu-thu/Games-101-HW/tree/main/PA7-1/PA7"> [code]</a></p></th>
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/qingxu-thu/Games-202-HW/tree/main/hw1" src="./assets/img/hw1.gif" width="200"></p></th>
-    <th><p style="text-align: left">PCF and PCSS for soft shadow</p><p align="left">Conduct PCF and PCSS compared with simple two pass shadow map and derive some sights for soft shadow.<a href="https://github.com/qingxu-thu/Games-202-HW/tree/main/hw1"> [code]</p></a></th>
+    <th><p style="text-align: left">PCF and PCSS for soft shadow</p><p align="left">Conduct PCF and PCSS compared with simple two pass shadow map and derive some sights for soft shadow.<a href="https://github.com/qingxu-thu/Games-202-HW/tree/main/hw1"> [code]</a></p></th>
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/qingxu-thu/Games-202-HW/tree/main/assignment2" src="./assets/img/hw2.gif" width="200"></p></th>
-    <th><p style="text-align: left">Precomputed Radiance Transfer</p><p align="left">Conduct PCF and PCSS compared with simple two pass shadow map and derive some sights for soft shadow.<a href="https://github.com/qingxu-thu/Games-202-HW/tree/main/assignment2"> [code]</p></a></th>
+    <th><p style="text-align: left">Precomputed Radiance Transfer</p><p align="left">Conduct PCF and PCSS compared with simple two pass shadow map and derive some sights for soft shadow.<a href="https://github.com/qingxu-thu/Games-202-HW/tree/main/assignment2"> [code]</a></p></th>
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/qingxu-thu/competition-preprocess-code" src="./assets/img/ccfdidi.jpg" width="200"></p></th>
-    <th><p style="text-align: left">CCF&DIDI time and spatial prediction</a></p><p align="left">Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors.<a href="https://github.com/qingxu-thu/competition-preprocess-code"> [code]</p></th>
+    <th><p style="text-align: left">CCF&DIDI time and spatial prediction</a></p><p align="left">Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors.<a href="https://github.com/qingxu-thu/competition-preprocess-code"> [code]</a></p></th>
   </tr>
 </table>
 
