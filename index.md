@@ -130,10 +130,10 @@ Researches for about both computer science and fulid and thermal transportation 
     <table style="margin-left: border=0,frame=void; margin-right: bordeer=0,frame=void;">
         <tr>
             <td>
-            ![image](https://raw.githubusercontent.com/qingxu-thu/plasma_ignite/main/result/T.gif)
+            <img src="https://raw.githubusercontent.com/qingxu-thu/plasma_ignite/main/result/T.gif" alt="plasma" />
             </td>
             <td>
- - **Physical simluation for plasma ignition**
+ - <b>Physical simluation for plasma ignition
  <br>
  Use OpenFOAM to conduct the simluation for plasma ignition. Constrcut a simple framework to simulation this phenomenon and try to find the insights for engineering.
 <br>
