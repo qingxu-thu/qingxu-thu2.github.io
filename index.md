@@ -129,10 +129,13 @@ Researches for about both computer science and fulid and thermal transportation 
 </table>
 <br>
 
-## Awards and Honors
+
+<h2 id="awards-and-honors">Awards and Honors</h2>
+<p>
   - Academic Scholarship for Tsinghua University, Sept 2017,2018
+  <br>
   - Excellent graduate of Tsinghua University, Sept 2019
-  
-For more information, you could come to my CV [[PDF](./asset/cveg2.pdf)].
-  
+<br>
+For more information, you could come to my CV [<a href="/asset/cveg2.pdf">PDF</a>].
+</p>  
  
