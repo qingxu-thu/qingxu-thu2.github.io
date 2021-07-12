@@ -129,8 +129,8 @@ Researches for about both computer science and fulid and thermal transportation 
 
 <table style="width:100%; border: none;">
    <tr>
-    <th><p align="center"><img href="https://github.com/qingxu-thu/plasma_ignite" src="./assets/img/T.gif" width="200"></p></th>
-    <th><p style="text-align: left">Physical simluation for plasma ignition</p><p align="left">Use OpenFOAM to conduct the simluation for plasma ignition. Constrcut a simple framework to simulation this phenomenon and try to find the insights for engineering.<a href="https://github.com/qingxu-thu/plasma_ignite"> [code]</a></p></th>
+    <th><p align="center"><img href="https://github.com/qingxu-thu/plasma_ignite" src="./assets/img/T.gif" width="200"></p>
+    <th><strong><Physical simluation for plasma ignition</strong><p align="left">Use OpenFOAM to conduct the simluation for plasma ignition. Constrcut a simple framework to simulation this phenomenon and try to find the insights for engineering.<a href="https://github.com/qingxu-thu/plasma_ignite"> [code]</a></p></th>
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/qingxu-thu/Games-101-HW/tree/main/Assignment3" src="./assets/img/texture.png" width="200"></p></th>
@@ -138,7 +138,7 @@ Researches for about both computer science and fulid and thermal transportation 
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/qingxu-thu/Games-101-HW/tree/main/PA7-1/PA7" src="./assets/img/binary.jpg" width="200"></p></th>
-    <th><p style="text-align: left">Whitted-Style Ray tracing</a></p><p align="left">Conduct ray tracing with BVH acceleration for simple CornellBox.<a href="https://github.com/qingxu-thu/Games-101-HW/tree/main/PA7-1/PA7"> [code]</a></p></th>
+    <th><p style="text-align: left">Whitted-Style Ray tracing</p><p align="left">Conduct ray tracing with BVH acceleration for simple CornellBox.<a href="https://github.com/qingxu-thu/Games-101-HW/tree/main/PA7-1/PA7"> [code]</a></p></th>
   </tr>
   <tr>
     <th><p align="center"><img href="https://github.com/qingxu-thu/Games-202-HW/tree/main/hw1" src="./assets/img/hw1.gif" width="200"></p></th>
