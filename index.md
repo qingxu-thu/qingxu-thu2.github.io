@@ -126,7 +126,7 @@ Researches for about both computer science and fulid and thermal transportation 
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img href="https://github.com/qingxu-thu/competition-preprocess-code" src="./assets/img/ccfdidi.jpg" width="600"></p></th>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>CCF&DIDI time and spatial prediction</strong><br>Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors. [<a href="https://github.com/qingxu-thu/competition-preprocess-code">code</a>]</p></li></ul></th>
  </tr>
-</table>
+
 <br>
 
 ## Awards and Honors
@@ -135,4 +135,4 @@ Researches for about both computer science and fulid and thermal transportation 
   
 For more information, you could come to my CV [[PDF](./asset/cveg2.pdf)].
   
-  
+ 
