@@ -100,57 +100,32 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   [[PDF](https://openreview.net/pdf?id=SRE8sviET2g)] 
 
-<!--
-## Project
- - **Physical simluation for plasma ignition**
- <br>
- Use OpenFOAM to conduct the simluation for plasma ignition. Constrcut a simple framework to simulation this phenomenon and try to find the insights for engineering.
-<br>
-<>
-<br>
-
- - **Courses for GAMES 101 201 202**
- <br>
- Learn the basic of the computer graphics, physically based animation and real-time rendering.<br>
-<> 
-<> 
-<>
-<br>     <br>
-[[Code] ]
-<br>
-
-- **CCF&DIDI time and spatial prediction**
-  <br>
-  Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors.
-[[Code] ]
-  <br>
--->
 ## Project
 
 <table style="width:100%; border: none;">
    <tr>
     <th style="border-bottom: 0;"><p align="center"><img href="https://github.com/qingxu-thu/plasma_ignite" src="./assets/img/T.gif" width="600"></p>
-    <th style="border-bottom: 0;"><ul><li><p><strong>Physical simluation for plasma ignition</strong><br>Use OpenFOAM to conduct the simluation for plasma ignition. Constrcut a simple framework to simulation this phenomenon and try to find the insights for engineering.<a href="https://github.com/qingxu-thu/plasma_ignite"> [code]</a></p></li></ul></th>
+    <th style="border-bottom: 0;"><ul><li><p><strong>Physical simluation for plasma ignition</strong><br>Use OpenFOAM to conduct the simluation for plasma ignition. Constrcut a simple framework to simulation this phenomenon and try to find the insights for engineering. [<a href="https://github.com/qingxu-thu/plasma_ignite">code</a>]</p></li></ul></th>
   </tr>
   <tr>
     <th style="border-bottom: 0;"><p align="center"><img href="https://github.com/qingxu-thu/Games-101-HW/tree/main/Assignment3" src="./assets/img/texture.png" width="600"></p></th>
-    <th style="border-bottom: 0;"><ul><li><p><strong>Normal mapping and Displacement mapping</strong><br>Conduct basic texture mapping and normal mapping with simple soft rendering pipeline.<a href="https://github.com/qingxu-thu/Games-101-HW/tree/main/Assignment3"> [code]</a></p></li></ul></th>
+    <th style="border-bottom: 0;"><ul><li><p><strong>Normal mapping and Displacement mapping</strong><br>Conduct basic texture mapping and normal mapping with simple soft rendering pipeline. [<a href="https://github.com/qingxu-thu/Games-101-HW/tree/main/Assignment3">code</a>]</p></li></ul></th>
   </tr>
   <tr>
     <th style="border-bottom: 0;"><p align="center"><img href="https://github.com/qingxu-thu/Games-101-HW/tree/main/PA7-1/PA7" src="./assets/img/binary.jpg" width="600"></p></th>
-    <th style="border-bottom: 0;"><ul><li><p><strong>Whitted-Style Ray tracing</strong><br>Conduct ray tracing with BVH acceleration for simple CornellBox.<a href="https://github.com/qingxu-thu/Games-101-HW/tree/main/PA7-1/PA7"> [code]</a></p></li></ul></th>
+    <th style="border-bottom: 0;"><ul><li><p><strong>Whitted-Style Ray tracing</strong><br>Conduct ray tracing with BVH acceleration for simple CornellBox. [<a href="https://github.com/qingxu-thu/Games-101-HW/tree/main/PA7-1/PA7">code</a>]</p></li></ul></th>
   </tr>
   <tr>
     <th style="border-bottom: 0;"><p align="center"><img href="https://github.com/qingxu-thu/Games-202-HW/tree/main/hw1" src="./assets/img/hw1.gif" width="600"></p></th>
-    <th style="border-bottom: 0;"><ul><li><p><strong>PCF and PCSS for soft shadow</strong><br>Conduct PCF and PCSS compared with simple two pass shadow map and derive some sights for soft shadow.<a href="https://github.com/qingxu-thu/Games-202-HW/tree/main/hw1"> [code]</a></p></li></ul></th>
+    <th style="border-bottom: 0;"><ul><li><p><strong>PCF and PCSS for soft shadow</strong><br>Conduct PCF and PCSS compared with simple two pass shadow map and derive some sights for soft shadow. [<a href="https://github.com/qingxu-thu/Games-202-HW/tree/main/hw1">code</a>]</p></li></ul></th>
   </tr>
   <tr>
     <th style="border-bottom: 0;"><p align="center"><img href="https://github.com/qingxu-thu/Games-202-HW/tree/main/assignment2" src="./assets/img/hw2.gif" width="600"></p></th>
-    <th style="border-bottom: 0;"><ul><li><p><strong>Precomputed Radiance Transfer</strong><br>Conduct PCF and PCSS compared with simple two pass shadow map and derive some sights for soft shadow.<a href="https://github.com/qingxu-thu/Games-202-HW/tree/main/assignment2"> [code]</a></p></li></ul></th>
+    <th style="border-bottom: 0;"><ul><li><p><strong>Precomputed Radiance Transfer</strong><br>Conduct PCF and PCSS compared with simple two pass shadow map and derive some sights for soft shadow. [<a href="https://github.com/qingxu-thu/Games-202-HW/tree/main/assignment2">code</a>]</p></li></ul></th>
   </tr>
   <tr>
     <th style="border-bottom: 0;"><p align="center"><img href="https://github.com/qingxu-thu/competition-preprocess-code" src="./assets/img/ccfdidi.jpg" width="600"></p></th>
-    <th style="border-bottom: 0;"><ul><li><p><strong>CCF&DIDI time and spatial prediction</strong><br>Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors.<a href="https://github.com/qingxu-thu/competition-preprocess-code"> [code]</a></p></li></ul></th>
+    <th style="border-bottom: 0;"><ul><li><p><strong>CCF&DIDI time and spatial prediction</strong><br>Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors. [<a href="https://github.com/qingxu-thu/competition-preprocess-code">code</a>]</p></li></ul></th>
   </tr>
 </table>
 
