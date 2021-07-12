@@ -127,7 +127,7 @@ Researches for about both computer science and fulid and thermal transportation 
 -->
 ## Project
 <html>
-    <table style="margin-left: frame=void; margin-right: frame=void;">
+    <table style="margin-left: border=0; margin-right: bordeer=0;">
         <tr>
             <td>
                 <!--左侧内容-->
