@@ -108,7 +108,7 @@ Researches for about both computer science and fulid and thermal transportation 
   </tr>
    <tr>
      <th style="border-bottom: 0;">  </th>
-    <th style="border-bottom: 0;"><h3><a href="https://github.com/qingxu-thu/Games-101-HW">Homework for Games 101</a></h3></th>
+    <th style="border-bottom: 0;"><h3 style="text-align: center"><a href="https://github.com/qingxu-thu/Games-101-HW">Homework for Games 101</a></h3></th>
   </tr>  
   <tr>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img href="https://github.com/qingxu-thu/Games-101-HW/tree/main/Assignment3" src="./assets/img/texture.png" width="600"></p></th>
@@ -120,7 +120,7 @@ Researches for about both computer science and fulid and thermal transportation 
   </tr>
    <tr>
      <th style="border-bottom: 0;">  </th>
-    <th style="border-bottom: 0;"><h3><a href="https://github.com/qingxu-thu/Games-202-HW">Homework for Games 202</a></h3></th>
+    <th style="border-bottom: 0;"><h3 style="text-align: center"><a href="https://github.com/qingxu-thu/Games-202-HW">Homework for Games 202</a></h3></th>
   </tr>  
   <tr>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img href="https://github.com/qingxu-thu/Games-202-HW/tree/main/hw1" src="./assets/img/hw1.gif" width="600"></p></th>
