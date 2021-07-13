@@ -107,7 +107,7 @@ Researches for about both computer science and fulid and thermal transportation 
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>Physical simluation for plasma ignition</strong><br>Use OpenFOAM to conduct the simluation for plasma ignition. Constrcut a simple framework to simulation this phenomenon and try to find the insights for engineering. [<a href="https://github.com/qingxu-thu/plasma_ignite">code</a>]</p></li></ul></th>
   </tr>
    <tr>
-     <th>  </th>
+     <th style="border-bottom: 0;">  </th>
     <th style="border-bottom: 0;"><h3><a href="https://github.com/qingxu-thu/Games-101-HW">Homework for Games 101</a></h3></th>
   </tr>  
   <tr>
@@ -119,8 +119,8 @@ Researches for about both computer science and fulid and thermal transportation 
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>Whitted-Style Ray tracing</strong><br>Conduct ray tracing with BVH acceleration for simple CornellBox. [<a href="https://github.com/qingxu-thu/Games-101-HW/tree/main/PA7-1/PA7">code</a>]</p></li></ul></th>
   </tr>
    <tr>
-     <th>  </th>
-    <th style="border-bottom: 0;"><h3><a href="https://github.com/qingxu-thu/Games-202-HW">Homework for Games 102</a></h3></th>
+     <th style="border-bottom: 0;">  </th>
+    <th style="border-bottom: 0;"><h3><a href="https://github.com/qingxu-thu/Games-202-HW">Homework for Games 202</a></h3></th>
   </tr>  
   <tr>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img href="https://github.com/qingxu-thu/Games-202-HW/tree/main/hw1" src="./assets/img/hw1.gif" width="600"></p></th>
