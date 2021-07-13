@@ -101,7 +101,7 @@ Researches for about both computer science and fulid and thermal transportation 
   [[PDF](https://openreview.net/pdf?id=SRE8sviET2g)] 
 
 ## Project
-<table style="width:100%; border: none;">
+<table style="width:100%; border: none;"TABLE-LAYOUT: fixed;">
    <tr>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><p align="center"><img href="https://github.com/qingxu-thu/plasma_ignite" src="./assets/img/T.gif" width="600"></p>
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>Physical simluation for plasma ignition</strong><br>Use OpenFOAM to conduct the simluation for plasma ignition. Constrcut a simple framework to simulation this phenomenon and try to find the insights for engineering. [<a href="https://github.com/qingxu-thu/plasma_ignite">code</a>]</p></li></ul></th>
@@ -127,15 +127,12 @@ Researches for about both computer science and fulid and thermal transportation 
     <th style="border-bottom: 0;color: #595959;font: 16.0px/1.5 Crimson Pro, serif;"><ul><li><p><strong>CCF&DIDI time and spatial prediction</strong><br>Predict the roads' degree of crowdedness with the history time data and the spatial data of the road. We got the rank 13 for 200 competitors. [<a href="https://github.com/qingxu-thu/competition-preprocess-code">code</a>]</p></li></ul></th>
  </tr>
 </table>
-<br>
 
 
-<h2 id="awards-and-honors">Awards and Honors</h2>
-<p>
-  - Academic Scholarship for Tsinghua University, Sept 2017,2018
-  <br>
-  - Excellent graduate of Tsinghua University, Sept 2019
-<br>
-For more information, you could come to my CV [<a href="/asset/cveg2.pdf">PDF</a>].
-</p>  
+## Awards and Honors 
+- Academic Scholarship for Tsinghua University, Sept 2017,2018 
+- Excellent graduate of Tsinghua University, Sept 2019 
+
+
+For more information, you could come to my CV [[PDF](./asset/cveg2.pdf)].
  
