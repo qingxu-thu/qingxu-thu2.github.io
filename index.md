@@ -25,7 +25,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   **accepted** by e-Energy '20.
   <br>
-  [[pdf](./assets/eenergy.pdf)] [[doi](https://dl.acm.org/doi/10.1145/3396851.3403508)]
+  [[PDF](./assets/eenergy.pdf)] [[doi](https://dl.acm.org/doi/10.1145/3396851.3403508)]
 
 - **Differential Privacy in Consumer Behavior Analysis**
   <br>
@@ -41,7 +41,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   under review for **NeurIPS 2021**.
   <br>
-  [[PDF](https://openreview.net/pdf?id=PSukBxwOSs)] 
+  [[PDF](./assets/asynchronous_training_schemes_.pdf)] 
 
 - **Federated Learning with Classifier Shift for Class Imbalance**
   <br>
@@ -49,7 +49,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   under review for **NeurIPS 2021**.
   <br>
-  [[PDF](https://openreview.net/pdf?id=6vNUZthdYf1)] 
+  [[PDF](./assets/federated_learning_with_classi.pdf)] 
 
 ### Mechanism Design and Pricing
 
@@ -98,7 +98,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   under review for **NeurIPS 2021**.
   <br>
-  [[PDF](https://openreview.net/pdf?id=SRE8sviET2g)] 
+  [[PDF](./assets/thompson_sampling_based_on_dee.pdf)] 
 
 ## Project
 <table style="width:100%; border: none;">
