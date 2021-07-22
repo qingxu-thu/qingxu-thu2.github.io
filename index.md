@@ -94,7 +94,7 @@ Researches for about both computer science and fulid and thermal transportation 
 
 - **Thompson Sampling Based on Deep Representation**
   <br>
-  Yuhai Song, Lu Wang, HM D, Wang Zhe, **Haoxiang Wang**
+  Lu Wang, HM D, Wang Zhe, **Haoxiang Wang**
   <br>
   under review for **NeurIPS 2021**.
   <br>
