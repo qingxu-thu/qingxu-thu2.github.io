@@ -80,7 +80,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   Nan Gu, **Haoxiang Wang**, Jiangsheng Zhang, Chenye Wu
   <br>
-  under review by **IEEE transactions on power system** (**Top** for electrical engineering).
+  **accepted** by **IEEE transactions on power system** (**Top** for electrical engineering).
   
 ### Practical Application
 
