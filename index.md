@@ -92,15 +92,15 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   [[PDF](./assets/mssp.pdf)] [[doi](https://doi.org/10.1016/j.ymssp.2021.107650)] 
 
-<div style='display: none'>
-- **Thompson Sampling Based on Deep Representation**
+
+<- **Thompson Sampling Based on Deep Representation**
   <br>
   Lu Wang, HM D, Wang Zhe, **Haoxiang Wang**
   <br>
   under review for **NeurIPS 2021**.
   <br>
-  [[PDF](./assets/thompson_sampling_based_on_dee.pdf)] 
-</div>
+  [[PDF](./assets/thompson_sampling_based_on_dee.pdf)]  >
+
   
 ## Project
 <table style="width:100%; border: none;">
