@@ -8,6 +8,7 @@ I am a Master student at Institution for Interdisciplinary Information Science (
 
 Researches for about both computer science and fulid and thermal transportation are my interests now. I hope I could participate in the interdisciplinary area for this two topics, like phyiscal simulation or physically based computer graphics. Certainly, I am still active for the privacy computing and mechanism design and welcome for communciation if we are interested in my work about these topic!
 
+Nowadays, I'm a PhD student in the Department of Automation, Tsinghua University. I'm interested in the 3D reconstruction and physical simulation. If you are currently working on the field, also welcome for these topics.
 
 ## Publications
 ### Privacy Computation in machine learning
@@ -35,11 +36,19 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   [[PDF](./assets/Privacy_for_PES__Copy_.pdf)] [[Talk](https://youtu.be/WJ_vojAD7mw)]
 
+- **Privacy Preservation for Time Series Data in the Electricity Sector**
+  <br>
+  **Haoxiang Wang**, Jiangsheng Zhang, Chenbei Lu, Chenye Wu
+  <br>
+  **accepted** by IEEE Transactions on Smart Grid (IF=8.96).
+  <br>
+  [[PDF](./assets/Privacy_Preservation_for_Time_Series_Data_in_the_Electricity_Sector.pdf)] [[doi](https://ieeexplore.ieee.org/document/9993771)] 
+
 - **Asynchronous Training Schemes in Distributed Learning with Time Delay**
   <br>
   **Haoxiang Wang**, Zhanhong Jiang, Chao Liu
   <br>
-  under review for **NeurIPS 2021**.
+  working paper.
   <br>
   [[PDF](./assets/asynchronous_training_schemes_.pdf)] 
 
@@ -47,7 +56,7 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   Yuheng Shen, **Haoxiang Wang**, Hairong Lv
   <br>
-  under review for **NeurIPS 2021**.
+  working paper.
   <br>
   [[PDF](./assets/federated_learning_with_classi.pdf)] 
 
@@ -57,8 +66,8 @@ Researches for about both computer science and fulid and thermal transportation 
   <br>
   **Haoxiang Wang**, Chenye Wu
   <br>
-  Working Paper.'
-  [[PDF](./assets/Green_certificates_auction__neurips_2021_.pdf)]
+  **accepted** by e-Energy '22.'
+  [[PDF](./assets/optimal auction.pdf)][[doi](https://dl.acm.org/doi/abs/10.1145/3538637.3538847)]
 
 - **Vulnerability Analysis for Data Driven Pricing Schemes**
   <br>
@@ -81,6 +90,8 @@ Researches for about both computer science and fulid and thermal transportation 
   Nan Gu, **Haoxiang Wang**, Jiangsheng Zhang, Chenye Wu
   <br>
   **accepted** by **IEEE transactions on power system** (**Top** for electrical engineering).
+  <br>
+  [[doi](https://ieeexplore.ieee.org/document/9508851)] 
   
 ### Practical Application
 
@@ -134,6 +145,9 @@ Researches for about both computer science and fulid and thermal transportation 
 - Academic Scholarship for Tsinghua University, Sept 2017,2018 
 - Excellent graduate of Tsinghua University, Sept 2019 
 
+## Academic Service
+- Reviewer for Neruips 2022 and ICLM 2023
+- TA for Basic of Artificial Intelligence in Tsinghua University
 
 For more information, you could come to my CV [[PDF](./asset/cveg2.pdf)].
  
