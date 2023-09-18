@@ -3,15 +3,13 @@ layout: homepage
 ---
 
 ## About Me
+I am a Ph.D. student at the Department of Automation, Tsinghua University. Before I start my Ph.D. journey, I received my Master's degree at the Institution for Interdisciplinary Information Science (IIIS), Tsinghua University. My advisor is Chenye Wu, who is advised by Andrew Chi-Chih Yao. Before entering IIIS, I am a bachelor in the Department of Thermal Engineering. 
 
-I am a Master student at Institution for Interdisciplinary Information Science (IIIS), Tsinghua University. My advisor is Chenye Wu, who is advised by Andrew Chi-Chih Yao. Before entering IIIS, I am a bachelor in Department of Thermal Engineering. 
+My research interests are physical simulation (especially fluid) and animation. I hope to make a fast simulator with larger geometry flexibility for both robotics and inverse design. Indeed, I am still active in stochastic analysis and different privacy. Welcome for communication if you are interested in my work on these topics!
 
-Researches for about both computer science and fulid and thermal transportation are my interests now. I hope I could participate in the interdisciplinary area for this two topics, like phyiscal simulation or physically based computer graphics. Certainly, I am still active for the privacy computing and mechanism design and welcome for communciation if we are interested in my work about these topic!
-
-Nowadays, I'm a PhD student in the Department of Automation, Tsinghua University. I'm interested in the 3D reconstruction and physical simulation. If you are currently working on the field, also welcome for these topics.
 
 ## Publications
-### Privacy Computation in machine learning
+### Privacy Computation in Machine Learning
 - **Preserving in Non-Intrusive Load Monitoring: A Differential Privacy Perspective**
   <br>
   **Haoxiang Wang**, Jiangsheng Zhang, Chenbei Lu, Chenye Wu
